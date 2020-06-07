@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("master分支编写的代码");
         System.out.println("dev分支写的代码");
         System.out.println("合并代码");
+        System.out.println("在线修改的代码");
     }
 }
